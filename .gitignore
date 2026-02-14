@@ -1,0 +1,23 @@
+# Redundant files
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Old files (migrated to Final Submission)
+huggingface_spaces_test/
+task1.py
+task1_logs_outputs/
